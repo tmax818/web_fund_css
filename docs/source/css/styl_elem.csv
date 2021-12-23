@@ -1,0 +1,6 @@
+term, definition
+width | height:, determine size and can be pixels(px) or percent(%).
+overflow:, This property determines what should happen when the content inside of a container is too much for the container size. 
+background:, The background property can modify the background of an element all in one line. 
+border:, This property adjusts all border elements in one line. 
+border-radius:, This property allows the corners of your border to be given a rounded appearance. The values can be set using px or %.
